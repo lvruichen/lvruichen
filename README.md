@@ -1,3 +1,5 @@
+### Hi! 👏 Welcome to [My Block](https://lvruichen.github.io/)
+
 <table align="center" width="100%">
     <td align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvruichen&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
